@@ -1,7 +1,7 @@
-#ILM
-##Desarrollo de Aplicaciones Multiplataforma "DAM"
+# ILM
+## Desarrollo de Aplicaciones Multiplataforma "DAM"
 
-###Etiquetas utilizadas en MarkDown
+### Etiquetas utilizadas en MarkDown
 
 - Para Hacer encabezados usamos `#`, cuantos mas ponemos mas pequeños son.
 
