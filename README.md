@@ -1,33 +1,66 @@
-# ILM
-`# ILM`
+# 💻 **¡Hola! Soy Ignacio Lorente**
 
-## Desarrollo de Aplicaciones Multiplataforma "DAM"
-`## Desarrollo de Aplicaciones Multiplataforma "DAM"`
+### 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-### Etiquetas utilizadas en MarkDown
-`### Etiquetas utilizadas en MarkDown`
+---
+<!--
+![banner](https://via.placeholder.com/1200x400.png?text=Tu+Banner+Personalizado+Aquí) -->
 
-- Para Hacer encabezados usamos `#`, cuantos mas ponemos mas pequeños son.
+### 🧑‍💻 **Sobre mí**
 
-- Para poner texto en cursiva lo pondremos entre asteriscos pero solo *uno delante y uno detras*. 
-    `*Texto de ejemplo*`.
+Soy un apasionado de la tecnología y el desarrollo de software. Actualmente estoy cursando un grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM), donde he adquirido habilidades en **Java, Kotlin, SQL, XML, Git** y muchas más tecnologías. Me encanta aprender y trabajar en proyectos innovadores, y siempre estoy buscando maneras de mejorar mis habilidades.
 
-- Para poner texto en negrita lo pondremos entre asteriscos pero esta vez seran **dos delante y dos detras**. 
-    `**Texto de ejemplo**`.
+---
 
-- Para hacer listas sin orden usamos '-' seguido de texto 
-    `- Texto de ejemplo`.
+### 🚀 **Mis Habilidades**
 
-- Para hacer listas ordenadas usamos un numero seguido de `.` y luego escribimos texto.
-    1. Texto de ejemplo.
-    `1. Texto de ejemplo.`
-    2. Texto de ejemplo.
-    `2. Texto de ejemplo.`
+- **Lenguajes de programación:** Java, Kotlin, Python
+- **Bases de datos:** SQL
+- **Herramientas de desarrollo:** Git, GitHub, Android Studio, JetBrains IDE
+- **Tecnologías web:** HTML5, CSS3, JavaScript
 
-- Para poner enlaces ponemos `[Texto que veremos](URL)` por ejemplo: [Enlace de prueba](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+---
 
-- Para poner imagenes ponemos `![Texto](Ruta de la imagen)` por ejemplo: [Imagen de prueba](https://www.zbw-mediatalk.eu/wp-content/uploads/2015/09/github-cover.jpg)
+### 📚 **Actualmente Aprendiendo**
 
-- Para poner citas usaremos `>`.
-    >Cita de prueba.
+- **Desarrollo de aplicaciones móviles con Android**
+- **Patrones de diseño de software**
 
+<!-- ---
+
+### 🛠 **Proyectos Destacados**
+
+#### 1. [**Nombre del Proyecto 1**](#)
+   - Descripción breve del proyecto.
+   - Tecnologías usadas: **Java**, **SQLite**, **Git**.
+
+#### 2. [**Nombre del Proyecto 2**](#)
+   - Descripción breve del proyecto.
+   - Tecnologías usadas: **Kotlin**, **Firebase**, **Git**. -->
+
+---
+
+<!-- ### 🌱 **Otros Intereses**
+
+- Inteligencia Artificial y Machine Learning.
+- Desarrollo de videojuegos.
+- Ciberseguridad. -->
+
+<!-- ---
+
+### 🤝 **Colaboremos**
+
+Si tienes alguna idea interesante o proyecto en el que pueda ayudar, no dudes en contactarme. Estoy siempre abierto a colaborar y aprender algo nuevo.
+
+---
+-->
+
+### 📫 **Contacto**
+
+- **Correo:** nacholorente@outlook.es
+- **LinkedIn:** [Ignacio Lorente](https://www.linkedin.com/in/ignacio-lorente-6599a132a/)
+<!-- - **Twitter:** [@TuUsuario](https://twitter.com)-->
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
